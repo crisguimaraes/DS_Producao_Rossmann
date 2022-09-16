@@ -55,7 +55,13 @@ De forma a entender o quão desafiador era o problema a ser resolvido, após a c
  
  ### 5 - Análise Exploratória dos dados
  
-Como estamos trabalhando com uma metodologia cíclica de desenvolvimento, é esperado que essa análise possa ser refinada a cada iteração. Para que ficasse mais claro o nível de detalhamento que seria necessário nesse primeiro ciclo, foi construído um mapa mental de hipóteses. Nesse roteiro, ficou mais fácil de entender quais as hipóteses poderiam ser criadas e quais as análises deveriam ser feitas para validá-las.
+Como estamos trabalhando com uma metodologia cíclica de desenvolvimento, é esperado que essa análise possa ser refinada a cada iteração. Para que ficasse mais claro o nível de detalhamento que seria necessário nesse primeiro ciclo, foi construído um mapa mental de hipóteses. Através desse mapa, ficou mais fácil de entender quais as hipóteses poderiam ser criadas e quais as análises deveriam ser feitas para validá-las.
+
+![](img/mind_map_hypotesis.png)
+
+Abaixo estão algumas das hipóteses levantadas a partir do mapa mental e o resultados das análises realizadas para validá-las ou rejeitá-las.
+
+
 
 
 
