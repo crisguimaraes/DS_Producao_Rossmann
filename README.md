@@ -17,7 +17,7 @@ O método CRISP é uma forma cíclica de solucionar o problema que permite ter u
 
 ### 1 - Questão de negócio
 
-- Qual é o valor das vendas de cada loja nas próximas 6 semanas?
+Qual será o valor das vendas de cada loja do grupo Rossmann nas próximas 6 semanas?
 
 ### 2 - Entendimento do negócio
 
@@ -34,3 +34,29 @@ Diretor financeiro (CFO) da Rossmann
 Previsão de vendas para as próximas 6 semanas
 Ferramentas: Jupyter Notebook, Python, séries temporais/regressão
 Formato da entrega: valor total das vendas/loja nas próximas 6 semanas com possibilidade de acesso via web.
+
+### 3 - Coleta dos dados
+
+Os dados foram obtidos no Kaggle e podem ser acessados [aqui](https://www.kaggle.com/c/rossmann-store-sales/data)
+
+### 4 - Limpeza e Descrição dos dados
+
+De forma a entender o quão desafiador era o problema a ser resolvido, após a coleta dos dados foi iniciado o processo de limpeza e descrição dos dados.
+
+ - **Quantidade de dados**: foi verificado o tamanho do dataset para que pudessem ser escolhidas as melhores ferramentas de processamento e avaliados a quantidade de memória e processamento necessários para esse conjunto de dados.
+ 
+ - **Tipos de variáveis**: conhecer os tipos de variáveis presentes no dataset e a porcentagem de cada uma, ajuda a nos guiar sobre quais técnicas são mais adequadas para o desenvolvimento do projeto.
+ 
+ - **Tratamento de dados faltantes**: nessa etapa foi verificada a quantidade de dados faltantes no dataset e feita uma avaliação dos possíveis motivos de faltarem esses dados. A partir dessa avaliação, algumas premissas foram assumidas para que eles fossem devidamente preenchidos ou deletados.
+ 
+ - **Estatística descritiva**: para ter uma noção mais geral dos dados, foram avaliadas algumas métricas descritivas das variáveis numéricas como média, mediana, range, máximo, mínimo, desvio padrão. Foram plotados gráficos apropriados para melhor visualiação do comportamento dessas variáveis. O comportamento das variáveis categóricas também foi avaliado através de gráficos e boxplots.
+ 
+ - **Feature Engineering**: para facilitar a etapa de Análise Exploratória (EDA - Exploratory Data Analysis), algumas features foram decompostas para criação de outras, mais simples e fáceis de serem acessadas.
+ 
+ ### 5 - Análise Exploratória dos dados
+
+
+
+
+
+
