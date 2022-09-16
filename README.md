@@ -54,6 +54,23 @@ De forma a entender o quão desafiador era o problema a ser resolvido, após a c
  - **Feature Engineering**: para facilitar a etapa de Análise Exploratória (EDA - Exploratory Data Analysis), algumas features foram decompostas para criação de outras, mais simples e fáceis de serem acessadas.
  
  ### 5 - Análise Exploratória dos dados
+ 
+Como estamos trabalhando com uma metodologia cíclica de desenvolvimento, é esperado que essa análise possa ser refinada a cada iteração. Para que ficasse mais claro o nível de detalhamento que seria necessário nesse primeiro ciclo, foi construído um mapa mental de hipóteses. Nesse roteiro, ficou mais fácil de entender quais as hipóteses poderiam ser criadas e quais as análises deveriam ser feitas para validá-las.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
